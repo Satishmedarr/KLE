@@ -1,0 +1,264 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+#navimg {
+    display: inline-block;
+}
+
+#content {
+    height: 70px;
+    width: 1240px;
+    background-color: #0084B7;
+    display: inline-block;
+}
+
+body {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+}
+
+.but {
+    text-align: center;
+    color: white;
+    font-size: larger;
+    display: inline-block;
+    margin: 18px;
+    
+}
+
+#ic {
+    color: white;
+    font-size: 15px;
+}
+#ab {
+    margin-right: 0;
+}
+#ac {
+    margin-right: 0;
+}
+#ad {
+    margin-right: 0;
+}
+#ib {
+    color: white;
+    font-size: 15px;
+}
+
+#iaa {
+    color: white;
+    font-size: 15px;
+}
+
+#az {
+    margin-right: 0;
+}
+
+#ibb  {
+    color: white;
+    font-size: 15px;
+}
+
+#box {
+    width: 550px;
+    height: 158px;
+    background-color: #213c7f12;
+    margin: 50px;
+    display: inline-block;
+}
+
+#box1 {
+    width: 550px;
+    height: 158px;
+    background-color: #213c7f12;
+    margin: 50px;
+    display: inline-block;
+}
+
+#io {
+    position: relative;
+   right: 200px;
+   top: 20px;
+
+    height: 103px;
+    width: 103px;
+    display: inline-block;
+}
+
+#txt {
+    display: inline-block;
+    position: relative;
+    bottom: 70px;
+    color: #0084B7;
+    margin-right: 12px;
+    font-size: larger;
+}
+
+#img2 {
+    position: relative;
+    margin-bottom: 150px;
+    margin-left: 160px;
+    bottom: 60px;
+}
+
+#io1 {
+    position: relative;
+   right: 200px;
+   top: 20px;
+
+    height: 103px;
+    width: 103px;
+    display: inline-block;
+}
+
+#video {
+    background-color:white;
+    height: 210px;
+    width: 300px;
+    margin-left: 100px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    display: inline-block;
+    position: relative;
+    right: 245px;
+}
+
+#txt1 {
+    position: relative;
+    right: 60px;
+    top: 10px;
+    font-size: large;
+    color: #0084B7;
+}
+
+#txt2 {
+    position: relative;
+    right: 170px;
+    top: 10px;
+    font-size: large;
+    color: #0084B7;
+}
+
+#vi {
+    
+    padding: 18px;
+    margin-right: 15px;
+}
+
+#about {
+    background-color:white;
+    height: 210px;
+    width: 500px;
+    position: relative;
+    right: 180px;
+    bottom: 68px;
+    border: 1px solid rgba(0, 0, 0, 0.5);
+    display: inline-block;
+}
+
+#t {
+    text-align: left;
+    margin-left: 17px;
+    margin-right: 2px;
+    font-size: larger;
+}
+
+#firstimg {
+    display: inline-block;
+    position: relative;
+    
+    margin: 100px;
+    
+}
+#secondimg {
+    display: inline-block;
+    margin: 100px;
+}
+#thirdimg {
+    display: inline-block;
+    margin: 100px;
+}
+
+#txtbox {
+    height: 200px;
+    width: 300px;
+   
+    position: relative;
+    bottom: 70px;
+    right: 120px;
+    font-size: medium;
+    font-weight: 500;
+    display: inline-block;
+}
+
+#txtbox1 {
+    height: 200px;
+    width: 300px;
+    right: 10px;
+    position: relative;
+    bottom: 70px;
+    left: 10px;
+    font-size: medium;
+    font-weight: 500;
+    display: inline-block;
+}
+
+#txtbox2 {
+    height: 200px;
+    width: 300px;
+   
+    position: relative;
+    bottom: 70px;
+    left: 150px;
+    font-size: medium;
+    font-weight: 500;
+    display: inline-block;
+    justify-content: space-evenly;
+}
+
+#foot {
+    height: 370px;
+    width: 100%;
+    background-color: #032e44;
+}
+
+#firstdiv {
+    height: 250px;
+    width: 300px;
+    color: white;
+    display: inline-block;
+    /* background-color: green; */
+    position: relative;
+    right: 200px;
+    top: 10px;
+    text-align: left;
+    font-size: larger;
+    bottom: 10px;
+}
+#secdiv {
+    height: 250px;
+    width: 300px;
+    color: white;
+    display: inline-block;
+   /* background-color: pink; */
+    position: relative;
+    right: 100px;
+    text-align: left;
+    font-size: larger;
+    bottom: 80px;
+}
+#thidiv {
+    height: 250px;
+    width: 300px;
+    color: white;
+    display: inline-block;
+    /* background-color: yellow; */
+    position: relative;
+    top: 25px;
+    right: 10px;
+    left: 50px;
+    text-align: left;
+    font-size: larger;
+}
